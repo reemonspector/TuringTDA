@@ -19,5 +19,5 @@ This file produces all figures relating to the clustering, as well as the figure
 ## `Figures.py`
 This file produces the majority of 2D plots for the CIMA system and the histograms.
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
+## `MetricComparison.py`
+This file tests the various linkage methods for standard and cleaned barcodes.
