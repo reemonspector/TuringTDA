@@ -1,5 +1,5 @@
 # TuringTDA
-This repository contains six .py files used in the paper tentatively titled _Persistent homology classifies parameter dependence of Turing patterns_.
+This repository contains seven .py files used in the paper titled _Persistent homology classifies parameter dependence of patterns in Turing systems_.
 
 ## `CIMA.py`
 This file solves the CIMA system PDE at mutiple nodes, computes their persistent homology, and saves the output to a `.csv` file.
